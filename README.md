@@ -1,6 +1,6 @@
 # SMLR
 ### Idea
 
-![](http://imgur.com/sqmhY0s.gif)
+![](docs/smlr.gif)
 
 Bitcoin wallet consolidation and transaction history obfuscation.
